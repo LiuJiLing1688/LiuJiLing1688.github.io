@@ -1,64 +1,64 @@
 [
         {
-            "aweme_id"   “aweme_id”: "7323232949317520678",
+            "aweme_id"   “aweme_id”: "7323232949317520678",“aweme_id” “aweme_id”： “7323232949317520678”，
             "desc"   “desc”: "如何获取视频中的源代码，软件，还有文字版 #程序 #编程 #计算机 #Github #电脑 ",
-            "create_time"   “create_time”: 1705073058,
+            "create_time"   “create_time”: 1705073058,"创建时间"： "170507 30 58"
             "author"   “作者”: {
-                "uid": "99840012512",
-                "ban_user_functions": null   零,
+                "uid": "99840012512",   “uid”：“99840012512”
+                "ban_user_functions": null   零,“ban_user_functions”：空，表示没有禁用的用户函数。
                 "nickname": "技术爬爬虾",
-                "cf_list": null   零,
-                "link_item_list": null   零,
-                "avatar_168x168": {
-                    "uri"   “uri”: "100x100/aweme-avatar/tos-cn-i-0813c001_o0zQNNnjQ8AvgBEPIADaA1BABreIb79fLQeJAi",
-                    "url_list"   “url_list”: [
+                "cf_list": null   零,   “cf_list”：空，表示列表中没有元素。
+                "link_item_list": null   零,   "link_item_list"   “link_item_list”： 空， 表示该字段为空，没有链接项列表。
+                "avatar_168x168": {   “avatar_168x168”：{
+                    "uri"   “uri”: "100x100/aweme-avatar/tos-cn-i-0813c001_o0zQNNnjQ8AvgBEPIADaA1BABreIb79fLQeJAi",“uri”， “uri”： “100x100/aweme-avatar/tos-cn-i-0813c001_o0zQNNnjQ8AvgBEPIADaA1BABreIb79fLQeJAi”，
+                    "url_list"   “url_list”: [   "url_list"   “url_list” 表示一个包含多个URL的列表。
                         "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_o0zQNNnjQ8AvgBEPIADaA1BABreIb79fLQeJAi.jpeg?from=327834062"
-                    ],
+                    ],   ]，
                     "width"   “宽度”: 720,
                     "height"   “高度”: 720
                    }，},
-                "avatar_schema_list": null   零,
-                "signature_extra": null   零,
-                "follow_status": 0,
-                "risk_notice_text": ""   "＂,
-                "private_relation_list": null   零,
-                "follower_list_secondary_information_struct": null   零,
-                "custom_verify": ""   "＂,
-                "can_set_geofencing": null   零,
-                "batch_unfollow_contain_tabs": null   零,
-                "display_info": null   零,
-                "verification_permission_ids": null   零,
-                "need_points": null   零,
+                "avatar_schema_list": null   零,“avatar_schema_list”：空，表示没有可用的头像方案。
+                "signature_extra": null   零,   “signature_extra”：空
+                "follow_status": 0,   “follow_status”:0,
+                "risk_notice_text": ""   "＂,   “风险提示文本”：“”，“”
+                "private_relation_list": null   零,“private_relation_list”：空，表示没有私有关系。
+                "follower_list_secondary_information_struct": null   零,“follower_list_secondary_information_struct”：null   零 （空，表示没有相关信息）
+                "custom_verify": ""   "＂,   “custom_verify”："" ，""
+                "can_set_geofencing": null   零,“can_set_geofencing”：null   零 （零）
+                "batch_unfollow_contain_tabs": null   零,“批量取消关注包含标签”：空，表示没有包含标签的批量取消关注操作。
+                "display_info": null   零,   “display_info”：null   零 意为“显示信息”为空，即没有显示任何信息。
+                "verification_permission_ids": null   零,“verification_permission_ids”：空，表示没有验证权限。
+                "need_points": null   零,   "need_points"   “need_points”： 空， 即为零。
                 "share_info": {
-                    "share_url": ""   "＂,
-                    "share_weibo_desc": ""   "＂,
-                    "share_desc": ""   "＂,
-                    "share_title": ""   "＂,
-                    "share_qrcode_url": {
-                        "uri": "172c20000322526329a21",
-                        "url_list": [
-                            "https://p3-pc-sign.douyinpic.com/obj/172c20000322526329a21?x-expires=1721318400\u0026x-signature=ZaByxl3OexiCwKtQPl7ya%2F%2BtGfA%3D\u0026from=327834062",
+                    "share_url": ""   "＂,   “share_url”："" ，""
+                    "share_weibo_desc": ""   "＂,   “share_weibo_desc”：“”，空字符串
+                    "share_desc": ""   "＂,   “share_desc”：“”，空字符串
+                    "share_title": ""   "＂,   “share_title”：“”，空字符串
+                    "share_qrcode_url": {   “share_qrcode_url”：
+                        "uri": "172c20000322526329a21",'URI'： '172C20000322526329a21'，
+                        "url_list": [   “url_list”:(
+                            "https://p3-pc-sign.douyinpic.com/obj/172c20000322526329a21?x-expires=1721318400\u0026x-signature=ZaByxl3OexiCwKtQPl7ya%2F%2BtGfA%3D\u0026from=327834062",“https://p3-pc-sign.douyinpic.com/obj/172c20000322526329a21?x-expires=1721318400\u0026x-signature=ZaByxl3OexiCwKtQPl7ya%2F%2BtGfA%3D\u0026from=327834062”，
                             "https://p9-pc-sign.douyinpic.com/obj/172c20000322526329a21?x-expires=1721318400\u0026x-signature=eXlqDvg04OftsqLMCqhv6X4yhT0%3D\u0026from=327834062"
-                        ],
-                        "width": 720,
-                        "height": 720
-                    },
-                    "share_title_myself": "",
-                    "share_title_other": "",
-                    "share_desc_info": ""
-                },
-                "familiar_visitor_user": null,
-                "homepage_bottom_toast": null,
-                "batch_unfollow_relation_desc": null,
-                "enterprise_verify_reason": "",
-                "is_ad_fake": false,
-                "account_cert_info": "{}",
-                "card_entries_not_display": null,
-                "user_tags": null,
-                "profile_mob_params": null,
-                "card_sort_priority": null,
-                "not_seen_item_id_list": null,
-                "card_entries": null,
+                        ],   ]，
+                        "width": 720,   “宽度”:720年,
+                        "height": 720   “高度”:720
+                    },   }，
+                    "share_title_myself": "",   “share_title_myself”：空字符串
+                    "share_title_other": "",   “share_title_other”：空字符串
+                    "share_desc_info": ""   “share_desc_info”：空
+                },   }，
+                "familiar_visitor_user": null,"熟悉的访客用户"： 空
+                "homepage_bottom_toast": null,“首页底部通知”：空
+                "batch_unfollow_relation_desc": null,“批量取消关注关系描述”：空
+                "enterprise_verify_reason": "",“企业验证原因”：空
+                "is_ad_fake": false,   “is_ad_fake”:假的,
+                "account_cert_info": "{}",“account_cert_info”：“{}”
+                "card_entries_not_display": null,“card_entries_not_display” 为空。
+                "user_tags": null,   “user_tags”:空,
+                "profile_mob_params": null,“profile\_mob\_params”：null   零
+                "card_sort_priority": null,“card_sort_priority”：空
+                "not_seen_item_id_list": null,"未见过的物品ID列表"： 空
+                "card_entries": null,   “card\_entries”：为空。
                 "prevent_download": false,
                 "text_extra": null,
                 "sec_uid": "MS4wLjABAAAAFSp1EdCLJkoMieKaEVgSj2uoZpVw9ZDyymICRsuR3SQ",
