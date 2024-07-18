@@ -1,39 +1,39 @@
 [
         {
-            "aweme_id": "7323232949317520678",
-            "desc": "如何获取视频中的源代码，软件，还有文字版 #程序 #编程 #计算机 #Github #电脑 ",
-            "create_time": 1705073058,
-            "author": {
+            "aweme_id"   “aweme_id”: "7323232949317520678",
+            "desc"   “desc”: "如何获取视频中的源代码，软件，还有文字版 #程序 #编程 #计算机 #Github #电脑 ",
+            "create_time"   “create_time”: 1705073058,
+            "author"   “作者”: {
                 "uid": "99840012512",
-                "ban_user_functions": null,
+                "ban_user_functions": null   零,
                 "nickname": "技术爬爬虾",
-                "cf_list": null,
-                "link_item_list": null,
+                "cf_list": null   零,
+                "link_item_list": null   零,
                 "avatar_168x168": {
-                    "uri": "100x100/aweme-avatar/tos-cn-i-0813c001_o0zQNNnjQ8AvgBEPIADaA1BABreIb79fLQeJAi",
-                    "url_list": [
+                    "uri"   “uri”: "100x100/aweme-avatar/tos-cn-i-0813c001_o0zQNNnjQ8AvgBEPIADaA1BABreIb79fLQeJAi",
+                    "url_list"   “url_list”: [
                         "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_o0zQNNnjQ8AvgBEPIADaA1BABreIb79fLQeJAi.jpeg?from=327834062"
                     ],
-                    "width": 720,
-                    "height": 720
-                },
-                "avatar_schema_list": null,
-                "signature_extra": null,
+                    "width"   “宽度”: 720,
+                    "height"   “高度”: 720
+                   }，},
+                "avatar_schema_list": null   零,
+                "signature_extra": null   零,
                 "follow_status": 0,
-                "risk_notice_text": "",
-                "private_relation_list": null,
-                "follower_list_secondary_information_struct": null,
-                "custom_verify": "",
-                "can_set_geofencing": null,
-                "batch_unfollow_contain_tabs": null,
-                "display_info": null,
-                "verification_permission_ids": null,
-                "need_points": null,
+                "risk_notice_text": ""   "＂,
+                "private_relation_list": null   零,
+                "follower_list_secondary_information_struct": null   零,
+                "custom_verify": ""   "＂,
+                "can_set_geofencing": null   零,
+                "batch_unfollow_contain_tabs": null   零,
+                "display_info": null   零,
+                "verification_permission_ids": null   零,
+                "need_points": null   零,
                 "share_info": {
-                    "share_url": "",
-                    "share_weibo_desc": "",
-                    "share_desc": "",
-                    "share_title": "",
+                    "share_url": ""   "＂,
+                    "share_weibo_desc": ""   "＂,
+                    "share_desc": ""   "＂,
+                    "share_title": ""   "＂,
                     "share_qrcode_url": {
                         "uri": "172c20000322526329a21",
                         "url_list": [
